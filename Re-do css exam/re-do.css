@@ -1,0 +1,672 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{
+    padding: 0px;
+    margin: 0px;
+    
+}
+.first-flex{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 103px;
+    padding-right: 100px;
+}
+.first-nav{
+    display: flex;
+    text-align: right;
+    margin-top: 41px;
+
+    
+    
+}
+.thyflow-title{
+    font-size: 24px;
+    color: #1F4493;
+    font-weight: 800;
+    padding-top: 35px;
+    font: gilroy;
+}
+.service{
+    padding-left: 38px;
+    padding-right: 38px;
+    font-size: 16px;
+    color: #051536;
+}
+.contact{
+    padding-left: 38px;
+    padding-right: 38px;
+    font-size: 16px;
+    color: #051536;
+}
+.blog{
+    padding-left: 38px;
+    padding-right: 38px;
+    font-size: 16px;
+    color: #051536;
+}
+.box-joc-1{
+font-size: 16px;
+    width: 193px;
+    height: 61px;
+    border-radius: 4px;
+    margin-top: -22px;
+    background-color: #C77D2D;
+    }
+.text-in-box-joc{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 28px;
+    padding-right: 28px;
+}
+.biggest-title{
+    font-weight: 800;
+    font-size: 72px;
+    text-align: center;
+    color:#051536;
+    margin-top: 92px;
+}
+.time-biggest-title{
+    color: #C77D2D;
+    font-size: 72px;
+    font-weight: 800;
+    display: inline;
+    margin-top: 176px;
+    line-height: 91.66px;
+}
+.unknown-lang{
+    font-size: 18px;
+    text-align: center;
+    color: #05153696;
+    margin-top: 20px;
+    }
+    .box-joc-2{
+    width: 200px;
+    height: 59px;
+    background-color:#C77D2D;
+    border-radius: 4px;
+    margin: auto;
+    margin-top: 32px;
+    margin-bottom: 68px;
+    }
+    .text-box-joc-2{
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-left: 28px;
+    padding-right: 28px;
+    }
+    .first-iphone{
+        width: 951.31px;
+        height: 790.03px;
+        margin-left: 266.5px;
+        margin-right: 222.19px;
+        
+    }
+    .how-thyflow-works{
+        width: 736px;
+        height: 146px;
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 61.1px;
+        color: #051536;
+        text-align: left;
+        margin-left: 97px;
+    }
+    .flex-four-boxes{
+        display: flex;
+        margin-right: 100px;
+        /* width: 1440px; */
+        /* height: 354px; */
+    }
+    .first-box{
+        width: 290px;
+        height: 310px;
+        background-color: #fff1e2;
+        margin-top: 94px;
+        border-radius: 30px;
+        margin-left: 97px;
+    }
+    .the-no{
+        margin: 0 auto;
+        width: fit-content;
+        font-size: 96px;
+        font-weight: 800;
+        color:  #616A7E38;
+        margin-top: -10px;
+        }
+    .title-for-boxes{
+        width: fit-content;
+        height: 31px;
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 30.55px;
+        margin: 0 auto;
+        margin-top: 50px; 
+    }
+    .text-for-boxes{
+        width: fit-content;
+        font-size: 18px;
+        height: 69px;
+        margin: 0 auto;
+        margin-bottom: -40px;
+        padding-top: 20px;
+    }
+    .second-box{
+        width: 290px;
+        height: 310px;
+        background-color: #E5EEFF;
+        margin-top: 94px;
+        border-radius: 30px;
+        margin-left: 26px;
+    }
+    .the-no{
+        margin: 0 auto;
+        width: fit-content;
+        font-size: 96px;
+        font-weight: 800;
+        color:  #616A7E38;
+        margin-top: -50px;
+        }
+    .title-for-boxes{
+        width: fit-content;
+        height: 100px;
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 30.55px;
+        margin: 0 auto;
+        margin-top: 50px; 
+    }
+    .text-for-boxes{
+        width: fit-content;
+        width: 267px;
+        font-size: 18px;
+        height: 69px;
+        margin: 0 auto;
+        margin-bottom: -40px;
+        padding-top: 20px;
+    }
+    .third-box{
+        width: 290px;
+        height: 310px;
+        background-color: #FFFCD8;
+        margin-top: 94px;
+        border-radius: 30px;
+        margin-left: 26px;
+    }
+    .the-no{
+        margin: 0 auto;
+        width: fit-content;
+        font-size: 96px;
+        font-weight: 800;
+        color:  #616A7E38;
+        margin-top: -50px;
+        }
+    .title-for-boxes{
+        width: fit-content;
+        height: 31px;
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 30.55px;
+        margin: 0 auto;
+        margin-top: 50px; 
+    }
+    .text-for-boxes{
+        width: fit-content;
+        font-size: 18px;
+        height: 69px;
+        margin: 0 auto;
+        margin-bottom: -40px;
+        padding-top: 20px;
+    }
+    .forth-box{
+        width: 290px;
+        height: 310px;
+        background-color: #F9E2FF;
+        margin-top: 94px;
+        border-radius: 30px;
+        margin-left: 26px;
+    }
+    .the-no{
+        margin: 0 auto;
+        width: fit-content;
+        font-size: 96px;
+        font-weight: 800;
+        color:  #616A7E38;
+        margin-top: -50px;
+        }
+    .title-for-boxes{
+        width: fit-content;
+        height: 31px;
+        font-size: 24px;
+        font-weight: 800;
+        line-height: 30.55px;
+        margin: 0 auto;
+        margin-top: 50px; 
+        padding-bottom: 20px;
+    }
+    .text-for-boxes{
+        width: fit-content;
+        font-size: 18px;
+        height: 69px;
+        margin: 0 auto;
+    }
+    .second-huge-flex{
+        display: flex;
+        margin-top: 249px;
+        justify-content: space-between;
+        margin-right: 100px;
+    }
+    .big-circle{
+        width: 610px;
+        height: 610px;
+        margin-left: 97px;
+        border-radius: 610px;
+        overflow: hidden;
+        background-color: #E5EEFF;
+    }
+    .iphone-in-circle{
+        width: 427px;
+        height: 863px;
+        margin-top: -102px;
+        margin-left: 80px;
+    }
+    .text-beside-circle{
+        margin-left: 20px;
+        font-size: 18px;
+    }
+    .welcome-thyflow{
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 61px;
+        color: #051536;
+    }
+    .marketplace{
+        font-size: 36px;
+        line-height: 45px;
+        font-weight: 800px;
+        margin-top: 31px;
+        color: #C77D2D;
+    }
+    .text-below-marketplace{
+        line-height: 22px;
+        margin-top: 31px;
+    }
+    .the-solution{
+        margin-top: 31px;
+        color: #051536;
+    }
+    .solu{
+        color: #051536;
+        font-size: 18px;
+        font-weight: 800;
+        display: inline;
+    }
+    .last-part{
+        margin-top: 31px;
+        padding-bottom: 31px;
+    }
+    .two-huge-flex{
+        display: flex;
+        margin-top: 326px;
+        margin-left: px;
+        margin-right: px;
+    }
+    
+    .title-on-left-box{
+    width: 561px;
+    height: 129px;
+    margin-left: 50px;
+    font-size: 48px;
+    font-weight: 800;
+    }
+    .left-box{
+        width: 600px;
+        height: 1089px;
+        border-radius: 20px;
+        background-color:#FFF2E3;
+        overflow: hidden;
+        margin-left: 50px;
+        margin-right: 45px;
+    }
+    .all-text-in-left{
+        margin-left: 34px;
+    }
+    .title-in-left-box{
+    width: 512px;
+    height: Hug (45px);
+    font-size: 32px;
+    font-weight: 800;
+    color: #051536;
+    margin-top: 56px;
+    }
+    .text-under-title-left{
+        width: 484px;
+        height: Hug (102px);
+        line-height: 33.79px;
+        margin-right: 82px;
+        margin-top: 32px;
+        font-size: 24px;
+    }
+    .list-in-left{
+        margin-top: 32px;
+        font-size: 24px;
+    }
+    .scnd-line-left{
+        margin-top: 21px;
+    }
+    .third-line-left{
+        margin-top: 21px;
+    }
+    .joc-in-left-box{
+        font-size: 24px;
+        color: #C77D2D;
+        margin-top: 32px;
+    }
+    .iphone-in-left-box{
+        width: 432px;
+        height: 865px;
+        margin-left: 84px;
+        margin-top: -75px
+    }
+    .right-box{
+        width: 600px;
+        height: 1089px;
+        border-radius: 20px;
+        background-color: #EAF1FF;
+        overflow: hidden;
+        margin-left: px;
+        padding-right: px;
+    }
+    .all-text-in-right{
+        margin-left: 44px;
+    }
+    .title-in-right-box{
+        margin-top: 56px;
+        font-weight: 800;
+        font-size: 32px;
+        color: #051536;
+    }
+    .text-under-title-right{
+        font-size: 24px;
+        margin-top: 24px;
+    }
+    .list-in-right{
+        margin-top: 24px;
+    }
+    .scnd-line-right{
+        margin-top: 24px;
+    }
+    .third-line-right{
+        margin-top: 24px;
+    }
+    .joc-in-right-box{
+        margin-top: 24px;
+        color: #C77D2D;
+        font-size: 24px;
+    }
+    .iphone-in-right-box{
+        width: 432px;
+        height: 843px;
+        margin-left: 84px;
+        margin-top: -113px;
+    }
+    .big-blue-box{
+        /* width: 1512px; */
+        height: 667px;
+        background-color: #051536;
+        margin-top: 165px;
+        display: flex; 
+        overflow: hidden;
+    }
+    .text-blue-box{
+        font-size: 48px;
+        font-weight: 800;
+        line-height: 61px;
+        margin-top: 90px;
+        color: white;
+        margin-left: 90px;
+    }
+    .download-icon{
+        display: flex;
+        margin-top: 62px;
+        margin-left: 90px;
+    }
+    .icon-for-playstore{
+        width: 246.68px;
+        height: 72.85px;
+        border-radius: 15px;
+        margin-right: 18px;
+    }
+    .icon-for-appstore{
+        width: 217.41px;
+        height: 72.85px;
+        border-radius: 15px;
+    }
+    .phone-part{
+        display: flex;
+        width: 641px;
+        margin-left: 100px;
+        margin-bottom: px;
+        
+    }
+    .left-phone-download{
+        width: 350px;
+        height: 730px;
+        margin-left: px;
+    }
+    .right-phone-download{
+        width: 340px;
+        height: 730px;
+        margin-left: -70px;
+
+    }
+    .title-after-blue-box{
+        font-size: 36px;
+        font-weight: 800;
+        margin-top: 85px;
+        color: #1F4493;
+        text-align: center;
+    }
+    .flex-for-numbers{
+        display: flex;
+        justify-content: center;
+        margin-left: 273px;
+        margin-top: 48px;
+    }
+    .no-49{
+        height: 122px;
+        font-size: 96px;
+        font-weight: 800;
+        color: #C77D2D;
+        margin-left: -275px;
+    }
+    .days{
+        font-size: 24px;
+        color: #616A7E;
+        line-height: 30px;
+        margin-left: -273px;
+    }
+    .vl-one{
+        border-left: 1px solid #616A7E;
+        height: 123px;
+        margin-left: -77px;
+        margin-top: 40px;
+    }
+    .no-22{
+        margin-left: 77px;
+        height: 122px;
+        font-weight: 800;
+        font-size: 96px;
+        color: #C77D2D;
+    }
+    .hours{
+        font-size: 24px;
+        color: #616A7E;
+        margin-left: 77px;
+    }
+    .vl-2{
+        border-left: 1px solid #616A7E;
+        height: 123px;
+        margin-left: 77px;
+        margin-top: 40px;
+    }
+    .no-55{
+        margin-left: 77px;
+        font-size: 96px;
+        font-weight: 800;
+        color: #C77D2D;
+    }
+    .minutes{
+        font-size: 24px;
+        margin-left: 77px;
+        color: #616A7E;
+    }
+    .vl-3{
+        border-left: 1px solid #616A7E;
+        height: 123px;
+        margin-left: 77px;
+        margin-top: 40px;
+    }
+    .no-00{
+        margin-left: 77px;
+        height: 122px;
+        font-weight: 800;
+        font-size: 96px;
+        color: #C77D2D;
+    }
+    .seconds{
+        font-size: 24px;
+        color: #616A7E;
+        margin-left: 77px;
+    }
+    .last-box{
+        width: 1240px;
+        height: 396px;
+        background-color: #1F4493;
+        border-radius: 20px;
+        margin: auto;
+        margin-top: 160px;
+    }
+    .white-flex{
+        display: flex;
+    }
+    .first-corner{
+    width: 235px;
+    height: 226px;
+    border: 2px solid white;
+    border-radius: 17px;
+    margin-left: -159px;
+    margin-top: -147px;
+    } 
+    .second-corner{
+        width: 235px;
+        height: 226px;
+        border: 2px solid white;
+        border-radius: 17px;
+        margin-left: -121px;
+        margin-top: -190px;
+    } 
+    .third-corner{
+        width: 235px;
+        height: 226px;
+        border: 2px solid white;
+        border-radius: 17px;
+        margin-left: -80px;
+        margin-top: -190px;
+    }
+    
+    .text-in-last-box{
+        font-size: 36px;
+        font-weight: 800;
+        color:#FFFFFF ;
+        text-align: center;
+        margin-top: 86px;
+        margin-left: 120px;
+    }  
+
+    .text-last-box{
+        margin-top: 30px;
+        text-align: center;
+        font-size: 18px;
+        color: white;
+        text-align: center;
+    }
+    .one-corner{
+        width: 235px;
+        height: 226px;
+        border: 2px solid white;
+        border-radius: 17px;
+        margin-left: 1150px;
+    }
+    .two-corner{
+        width: 235px;
+        height: 226px;
+        border: 2px solid white;
+        border-radius: 17px;
+        margin-left: 1105px;
+        margin-top: -265px;
+    }
+    .three-corner{
+        width: 235px;
+        height: 226px;
+        border: 2px solid white;
+        border-radius: 17px;
+        margin-left: 1067px;
+        margin-top: -265px;
+    }
+    .joc-last-box{
+        width: 193px;
+        height: 61px;
+        border-radius: 4px;
+        background-color: #C77D2D;
+        margin: auto;
+        margin-top: 44px; 
+    }
+    .txt{
+        color: white;
+        font-size: 16px;
+        text-align: center;
+        padding-top: 19px;
+    }
+    .last-title{
+        text-align: center;
+        color: #051536;
+        margin-top: 58px;
+        font-weight: 800;
+        font-size: 24px;
+    } 
+    .last-nav{
+        display: flex;
+        justify-content: center;
+        margin-top: 44px;
+    }
+    .navi{
+        margin-left: 84px;
+        color:#051536 ;
+    }
+    .address{
+        text-align: center;
+        font-size: 16px;
+        color: #051536;
+        margin-top: 37px;
+    }
+    .social-media{
+        display: flex;
+        justify-content: center;
+        margin-top: 39px;
+    }
+    .twitter, .facebook, .linkedin{
+        margin-left: 41px;
+    }
+    .last-txt{
+        font-size: 16px;
+        color: #051536;
+        margin-top: 124px;
+        text-align: center;
+    }
